@@ -1,0 +1,10 @@
+﻿  Lab_5_1_A.cpp
+C:\Users\maksd\source\repos\Lab_5_1_A\Lab_5_1_A\Product.h(16,9): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_A\Lab_5_1_A\Product.h(21,49): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_A\Lab_5_1_A\Product.h(22,48): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_A\Lab_5_1_A\Product.h(27,43): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_A\Lab_5_1_A\Product.h(29,51): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_A\Lab_5_1_A\Product.h(33,77): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\maksd\source\repos\Lab_5_1_A\Lab_5_1_A\Lab_5_1_A.cpp(1,1): warning C4103: выравнивание изменилось после включения заголовка, возможно из-за отсутствия директивы #pragma pack(pop)
+C:\Users\maksd\source\repos\Lab_5_1_A\Lab_5_1_A\Lab_5_1_A.cpp(15,26): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+  Lab_5_1_A.vcxproj -> C:\Users\maksd\source\repos\Lab_5_1_A\Debug\Lab_5_1_A.exe
